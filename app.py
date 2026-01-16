@@ -38,7 +38,7 @@ Output format:
 
 # ------------------ UI ------------------
 st.title("📄 Smart ATS Resume Analyzer")
-st.subheader("Powered by Gemini 1.5 Flash")
+st.subheader("Powered by Gemini 2.5 Flash")
 
 col1, col2 = st.columns(2)
 
