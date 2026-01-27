@@ -3,6 +3,10 @@
 ![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Input](https://img.shields.io/badge/Input-PDF_+_Text-orange)
 ![Mode](https://img.shields.io/badge/Analysis-Multimodal-purple)
+---
+
+📂 **Project DEMO SCREENSHOTS (Drive):**  
+https://drive.google.com/drive/folders/1slZSDZrtqhO_-g8ftPD8i53WUar3DToE?usp=sharing
 
 ---
 
