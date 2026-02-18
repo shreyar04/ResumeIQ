@@ -56,17 +56,31 @@ ATS Evaluation & Insights
 └── README.md
 
 🔐 Environment Setup
-1️⃣ Install Dependencies
-pip install -r requirements.txt
+Create virtual environment
+python -m venv venv
 
-2️⃣ Configure API Key
+🪟 Windows (PowerShell)
+.\venv\Scripts\Activate
 
-Create a .env file in the root directory:
+🐧 macOS / Linux
+source venv/bin/activate
 
+Upgrade pip
+python -m pip install --upgrade pip
+
+Install dependencies
+python -m pip install -r requirements.txt
+
+Create a .env file in the root folder and add:
 GOOGLE_API_KEY=your_api_key_here
 
-▶️ Run the Application
-streamlit run app.py
+Run the Streamlit app
+python -m streamlit run app.py
+
+✅ Done
+
+App will open in your browser at:
+http://localhost:8501
 
 ⚙️ Model Details
 
